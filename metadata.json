@@ -1,0 +1,6 @@
+{
+  "name": "ToolNest",
+  "description": "All-in-one collection of fast, free, privacy-first online tools for PDFs, images, calculators, text manipulation, and unit conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
